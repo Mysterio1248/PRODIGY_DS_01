@@ -1,0 +1,2 @@
+# PRODIGY_DS_01
+ The code reads a dataset containing information about gender, employment status, and recruitment source. It groups the data by gender, employment status, and recruitment source and creates a stacked bar plot to visualize the distribution.The x-axis represents gender and employment status.The y-axis represents the count.Different colors represent different recruitment sources.The legend shows the mapping of recruitment sources to colors.
